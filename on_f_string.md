@@ -107,3 +107,6 @@ def divisors(n):
 divisors(n)
 
 ```
+
+### Very comprehensive image on String handling
+![python-string-formatting-flowchart](https://res.cloudinary.com/e4datascience/image/upload/f_auto/g_auto/q_auto/python-string-formatting-flowchart.png)
