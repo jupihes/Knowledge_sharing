@@ -108,5 +108,7 @@ divisors(n)
 
 ```
 
+[python_string_formatting_for_data_science](https://engineeringfordatascience.com/posts/python_string_formatting_for_data_science/)
+
 ### Very comprehensive image on String handling
 ![python-string-formatting-flowchart](https://res.cloudinary.com/e4datascience/image/upload/f_auto/g_auto/q_auto/python-string-formatting-flowchart.png)
